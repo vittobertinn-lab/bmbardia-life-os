@@ -1,0 +1,6 @@
+BARDIA LIFE OS V10
+1) Extract this ZIP.
+2) Upload the contents of Bardia-Life-OS-V9 to a new GitHub repository.
+3) Enable GitHub Pages from Settings > Pages > Deploy from branch (main / root), or import the folder into Vercel.
+4) Open the HTTPS address in Android Chrome and choose Install app / Add to Home screen.
+5) Export a JSON backup regularly from Settings.
